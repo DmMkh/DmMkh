@@ -6,9 +6,13 @@
 
 ### Finished courses
 https://github.com/DmMkh/MIPT-System-programming
+
 https://github.com/DmMkh/Parallel
+
 https://github.com/DmMkh/get
+
 https://github.com/DmMkh/HDL
+
 https://github.com/DmMkh/Parallel---2
 
 <!--
