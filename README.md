@@ -9,11 +9,11 @@
 
 - [X] [__Parralel-programming-1__](https://github.com/DmMkh/Parallel)
 
+- [X] [__Parralel-programming-2__](https://github.com/DmMkh/Parallel---2)
+
 - [X] [__Engineering__](https://github.com/DmMkh/get)
 
 - [X] [__HDL__](https://github.com/DmMkh/HDL)
-
-- [X] [__Parralel-programming-2__](https://github.com/DmMkh/Parallel---2)
 
 <!--
 **DmMkh/DmMkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
