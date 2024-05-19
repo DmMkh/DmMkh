@@ -1,5 +1,9 @@
 # Hi there, I'm Dmitrii 👋
 ### MIPT DREC 4th year student
+
+### Current project
+![Smart-Device-on-Raspberry-Pi](https://github.com/DmMkh/Smart-Device-on-Raspberry)
+
 <!--
 **DmMkh/DmMkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
