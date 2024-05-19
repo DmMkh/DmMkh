@@ -7,9 +7,9 @@
 ### Finished courses:
 - [X] [__Lunev__](https://github.com/DmMkh/MIPT-System-programming)
 
-- [X] [__Parralel-programming-1__](https://github.com/DmMkh/Parallel)
+- [X] [__Parallel-programming-1__](https://github.com/DmMkh/Parallel)
 
-- [X] [__Parralel-programming-2__](https://github.com/DmMkh/Parallel---2)
+- [X] [__Parallel-programming-2__](https://github.com/DmMkh/Parallel---2)
 
 - [X] [__Engineering__](https://github.com/DmMkh/get)
 
