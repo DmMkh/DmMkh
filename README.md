@@ -4,7 +4,7 @@
 ### Current project:
 [![Smart-Device-on-Raspberry](https://img.shields.io/badge/Smart_Device_on_Raspberry-%2300ADD8.svg?style=for-the-badge&logoColor=white)](https://github.com/DmMkh/Smart-Device-on-Raspberry)
 
-### Finished courses
+### Finished courses:
 - [X] [__Lunev__](https://github.com/DmMkh/MIPT-System-programming)
 
 - [X] [__Parralel-programming-1__](https://github.com/DmMkh/Parallel)
