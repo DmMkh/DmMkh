@@ -4,6 +4,12 @@
 ### Current project:
 [![Smart-Device-on-Raspberry](https://img.shields.io/badge/Smart_Device_on_Raspberry-%2300ADD8.svg?style=for-the-badge&logoColor=white)](https://github.com/DmMkh/Smart-Device-on-Raspberry)
 
+### Finished courses
+https://github.com/DmMkh/MIPT-System-programming
+https://github.com/DmMkh/Parallel
+https://github.com/DmMkh/get
+https://github.com/DmMkh/HDL
+https://github.com/DmMkh/Parallel---2
 
 <!--
 **DmMkh/DmMkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
