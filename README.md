@@ -2,7 +2,7 @@
 ### MIPT DREC 4th year student
 
 ### Current project
-[![Smart-Device-on-Raspberry](https://img.shields.io/badge/Smart_Cart-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/DmMkh/Smart-Device-on-Raspberry)
+[![Smart-Device-on-Raspberry](https://img.shields.io/badge/Smart-Device-on-Raspberry-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/DmMkh/Smart-Device-on-Raspberry)
 
 <!--
 **DmMkh/DmMkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
