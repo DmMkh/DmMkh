@@ -19,6 +19,11 @@
 
 - [X] [__HDL__](https://github.com/DmMkh/HDL)
 
+<p align="center">
+  <a href="https://github.com/DmMkh">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmMkh&theme=codeSTACKr" />
+  </a>
+</p>
 <!--
 **DmMkh/DmMkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
